@@ -20,7 +20,7 @@ This version of the dataset covers the incidence of infections and illnesses in 
 
 The latest version of the study year 2 (main) data (09-2009 to 12-2010) are available to download as a zip file here:
 
--   [KiddivaxMain.zip](KiddivaxMain.zip)
+-   [KiddivaxMain.zip](data/KiddivaxMain.zip)
 
 We provide our data under the [Open Data Commons Public Domain Dedication and License](http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/), which is a version of open access for data. Under this licence we reserve no rights: there are no restrictions on use of our data, and no requirement to cite our work or this website. However we would anticipate that for academic purposes the standard practice of referencing sources would apply. We would like to hear from researchers who are using our data and we would be keen to work together on analyses.
 
